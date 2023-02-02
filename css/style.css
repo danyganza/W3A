@@ -1,0 +1,31 @@
+
+
+p {
+
+    color: rgba(11, 4, 4, 0.2);
+    text-align: center;
+    font-size: 30px;
+    background-color: bisque;
+    height: max-content;
+    width: fit-content;
+
+    
+
+}
+
+header {
+color: rgb(78, 62, 219);
+background-color: rgb(254, 233, 233);
+font-size: larger;
+}
+
+body>p {
+
+  font-style: italic;
+
+}
+#first_artical {
+
+font-family: cursive;
+
+}
